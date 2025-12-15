@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\",
+  "WorkspaceRootPath": "D:\\Git\\ProductCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|c:\\users\\ateeb\\desktop\\crud\\crud\\crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|d:\\git\\productcrud\\crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{73DC9257-CF2E-45E4-AEA2-A1AFEE6EA9F9}|Crud\\Crud.csproj|solutionrelative:crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -50,36 +50,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\appsettings.json",
-              "RelativeDocumentMoniker": "Crud\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\appsettings.json",
-              "RelativeToolTip": "Crud\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-21T15:32:55.636Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud\\appsettings.json",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\appsettings.json",
+              "RelativeToolTip": "Crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T15:32:55.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Middleware\\ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Crud\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Middleware\\ExceptionMiddleware.cs",
               "RelativeToolTip": "Crud\\Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Crud\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Crud\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Services\\ProductService.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Crud\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Services\\ProductService.cs",
               "RelativeToolTip": "Crud\\Services\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Services\\IProductService.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Crud\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Services\\IProductService.cs",
               "RelativeToolTip": "Crud\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,23 +123,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Program.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Program.cs",
               "RelativeDocumentMoniker": "Crud\\Program.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Program.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Program.cs",
               "RelativeToolTip": "Crud\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T12:57:12.609Z"
+              "WhenOpened": "2025-10-28T12:57:12.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Crud\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Models\\Product.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Models\\Product.cs",
               "RelativeToolTip": "Crud\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Crud\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Crud\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +162,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Crud\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Crud\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwBcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T12:02:51Z",
               "EditorCaption": ""
@@ -175,9 +175,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Git\\ProductCrud\\Crud\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Crud\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Ateeb\\Desktop\\Crud\\Crud\\Crud\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Git\\ProductCrud\\Crud\\Properties\\launchSettings.json",
               "RelativeToolTip": "Crud\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
